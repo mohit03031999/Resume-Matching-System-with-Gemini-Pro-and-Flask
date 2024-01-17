@@ -28,7 +28,7 @@ This repository houses the development of an advanced Resume Matching System acc
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/<your-username>/student-performance-prediction
+     git clone https://github.com/<your-username>/Resume-Matching-System-with-Gemini-Pro-and-Flask
      ```
 
 2. **Install Dependencies**
